@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    margin: 100px;
+}
+
+h1{
+font-family: sans-serif;
+}
+
+div{
+    font-family: sans-serif;
+    margin: 10px 400px 10px 680px; 
+}
+
+section{
+    display: flex;
+}
+
+.letras{
+    margin: 0px 5px 0px 0px;
+}
+
+#Pesos{
+    border: 1px black solid;
+    padding: 10px 50px 10px 20px;
+    margin: 0px 20px 5px 27px;
+}
+
+#Estaturas{
+    border: 1px black solid;
+    padding: 10px 50px 10px 20px;
+}
+
+button{
+    background-color: rgb(27, 151, 252);
+    color: white;
+    padding: 10px 50px ;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: rgb(16, 115, 196);
+    color: rgb(211, 211, 211);
+}
+
+
+#resultado{
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px 20px;
+    margin: 10px 700px 0px 700px;
+}
+
